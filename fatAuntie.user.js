@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Fat Auntie
-// @description Change the background colour of a page
+// @description Increases the size of BBC iPlayer's video player
 // @include http://www.bbc.co.uk/iplayer/*
 // ==/UserScript==
 
